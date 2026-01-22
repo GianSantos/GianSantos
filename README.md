@@ -8,8 +8,8 @@ I'm currently looking for other opportunities, preferably back-end focused or fu
 
 I'm currently learning Golang and using Raspberry Pis and Arduinos for fun.
 
-- 📫 How to reach me:
-<a href="https://www.linkedin.com/in/gian-santos-a1a544b0/">
+📫 How to reach me:
+- <a href="https://www.linkedin.com/in/gian-santos-a1a544b0/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
