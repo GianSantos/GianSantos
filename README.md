@@ -1,5 +1,5 @@
 ## Hi there 👋
-# I'm Gian Santos
+#<p style="text-align: center;">I'm Gian Santos.</p>
 I'm a Full-Stack Software Engineer, leaning towards back-end, and have professional experience in the health/fintech/civil industries. 
 
 I'm currently looking for other opportunities, preferably back-end focused or full-stack. 
