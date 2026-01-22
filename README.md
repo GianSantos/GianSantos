@@ -1,4 +1,10 @@
 ## Hi there 👋
+# I'm Gian Santos
+I'm a Full-Stack Software Engineer, leaning towards back-end, and have professional experience in the health/fintech/civil industries. 
+
+I'm currently looking for other opportunities, preferably back-end focused or full-stack. 
+
+I'm currently learning Golang and using Raspberry Pis and Arduinos for fun.
 
 <!--
 **GianSantos/GianSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
